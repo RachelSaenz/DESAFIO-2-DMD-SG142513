@@ -1,0 +1,21 @@
+
+## Tecnologías usadas
+- Python (pandas, mysql-connector)
+- MySQL
+- Power BI / Excel
+- Git
+
+## Proceso
+1. Extracción y transformación de datos desde el PDF original.
+2. Carga en base de datos relacional.
+3. Construcción de un cubo OLAP.
+4. Consultas SQL analíticas.
+5. Visualización de resultados y análisis final.
+
+## Resultados
+El departamento de San Salvador presentó una recuperación progresiva en su movilidad comunitaria a finales del 2022, reflejando una mayor actividad económica post-pandemia.
+
+## Autor
+Nombre: [Raquel Sugey Saenz Guevara]  
+Carnet: [SG142513]
+
